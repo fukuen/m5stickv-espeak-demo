@@ -1,0 +1,3 @@
+[submodule "lib/M5StickV_eSpeak"]
+	path = lib/M5StickV_eSpeak
+	url = https://github.com/fukuen/M5StickV_eSpeak.git
